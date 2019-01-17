@@ -3,8 +3,8 @@
 # Given a list of numbers, return the average of the list.
 # If numbers equal [10, 10, 15, 7], the return value should be 10.5
 def avg(numbers):
-  # +++your code here+++
-  return
+  
+  return (numbers.count()/numbers.len())
 
 # B. both_ends
 # Given a string s, return a string made of the first 2
